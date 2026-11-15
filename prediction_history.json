@@ -1,0 +1,101 @@
+[
+  {
+    "applicant_id": "APP-FB2F9B",
+    "timestamp": "2026-11-05 10:58:28",
+    "loan_amount": 13350,
+    "duration": 13,
+    "checking_status": ">= 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.1069,
+    "key_drivers": "credit_amount, checking_status_no checking account, credit_history_critical account / other credits existing"
+  },
+  {
+    "applicant_id": "APP-B8208F",
+    "timestamp": "2026-11-05 10:58:28",
+    "loan_amount": 13350,
+    "duration": 13,
+    "checking_status": ">= 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.1069,
+    "key_drivers": "credit_amount, checking_status_no checking account, credit_history_critical account / other credits existing"
+  },
+  {
+    "applicant_id": "APP-67BA13",
+    "timestamp": "2026-11-05 10:58:06",
+    "loan_amount": 5550,
+    "duration": 24,
+    "checking_status": ">= 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.0505,
+    "key_drivers": "checking_status_no checking account, credit_amount, credit_history_critical account / other credits existing"
+  },
+  {
+    "applicant_id": "APP-B33B05",
+    "timestamp": "2026-11-05 10:47:54",
+    "loan_amount": 5550,
+    "duration": 24,
+    "checking_status": ">= 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Medium Risk",
+    "default_probability": 0.303,
+    "key_drivers": "checking_status_no checking account, duration, credit_history_critical account / other credits existing"
+  },
+  {
+    "applicant_id": "APP-3DA61D",
+    "timestamp": "2026-11-05 09:58:30",
+    "loan_amount": 3500,
+    "duration": 24,
+    "checking_status": "0 to < 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.18,
+    "key_drivers": "checking_status, duration"
+  },
+  {
+    "applicant_id": "APP-EE5A92",
+    "timestamp": "2026-11-04 12:04:05",
+    "loan_amount": 4450,
+    "duration": 24,
+    "checking_status": ">= 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Medium Risk",
+    "default_probability": 0.3176,
+    "key_drivers": "checking_status_no checking account, duration, credit_history_critical account / other credits existing"
+  },
+  {
+    "applicant_id": "APP-980820",
+    "timestamp": "2026-11-04 11:38:54",
+    "loan_amount": 3500,
+    "duration": 24,
+    "checking_status": "0 to < 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.18,
+    "key_drivers": "checking_status, duration"
+  },
+  {
+    "applicant_id": "APP-CA6686",
+    "timestamp": "2026-10-16 08:56:08",
+    "loan_amount": 3500,
+    "duration": 24,
+    "checking_status": "0 to < 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.18,
+    "key_drivers": "checking_status, duration"
+  },
+  {
+    "applicant_id": "APP-67BE6A",
+    "timestamp": "2026-10-16 08:53:51",
+    "loan_amount": 3500,
+    "duration": 24,
+    "checking_status": "0 to < 200 DM",
+    "credit_history": "existing credits paid duly till now",
+    "risk_tier": "Low Risk",
+    "default_probability": 0.18,
+    "key_drivers": "checking_status, duration"
+  }
+]
